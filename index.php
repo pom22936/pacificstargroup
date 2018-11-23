@@ -847,7 +847,7 @@ else
                                     <a href="https://vssa.com.vn/">www.vssa.com.vn</a>
                                 </div>
                             </div>
-                        </div>
+                        </div><br>
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card h-100 text-center">
                             <?php 
@@ -870,7 +870,7 @@ else
                                     <a href="http://www.pasl.com.vn/el/?frame=content&name=aboutus">www.pasl.com.vn</a>
                                 </div>
                             </div>
-                        </div>
+                        </div><br>
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card h-100 text-center">
                             <?php 
@@ -893,7 +893,7 @@ else
                                     <a href="http://www.bituco.com.vn/">www.bituco.com.vn</a>
                                 </div>
                             </div>
-                        </div>
+                        </div><br>
 
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card h-100 text-center">
@@ -917,7 +917,7 @@ else
                                     <a href="http://www.pasa.com.vn/">www.pasa.com.vn</a>
                                 </div>
                             </div>
-                        </div>
+                        </div><br>
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card h-100 text-center">
                             <?php 
@@ -940,7 +940,7 @@ else
                                     <a href="http://www.amss.com.vn/">www.amasis.com.vn</a>
                                 </div>
                             </div>
-                        </div>
+                        </div><br>
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card h-100 text-center">
                             <?php 
