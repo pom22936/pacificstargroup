@@ -4,7 +4,7 @@
         header('Location:index.php');
     }
     
-    $dbcon = mysqli_connect("localhost","root","poppom22936","final") or die(mysqli_error());
+    $dbcon = mysqli_connect("us-cdbr-iron-east-01.cleardb.net","b65d8c72f0f221","8a9fceb5245ea91","heroku_6739ef157d1165b") or die(mysqli_error());
     if (mysqli_connect_error()){
         echo"ไม่สามารถติดต่อฐานข้อมูลได้";
     }
